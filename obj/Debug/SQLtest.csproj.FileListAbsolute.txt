@@ -1,0 +1,9 @@
+C:\Users\golabek.INIG\source\repos\SQLtest\bin\Debug\SQLtest.exe.config
+C:\Users\golabek.INIG\source\repos\SQLtest\bin\Debug\SQLtest.exe
+C:\Users\golabek.INIG\source\repos\SQLtest\bin\Debug\SQLtest.pdb
+C:\Users\golabek.INIG\source\repos\SQLtest\obj\Debug\SQLtest.csprojAssemblyReference.cache
+C:\Users\golabek.INIG\source\repos\SQLtest\obj\Debug\SQLtest.AplikacjaSQL.resources
+C:\Users\golabek.INIG\source\repos\SQLtest\obj\Debug\SQLtest.Properties.Resources.resources
+C:\Users\golabek.INIG\source\repos\SQLtest\obj\Debug\SQLtest.csproj.GenerateResource.cache
+C:\Users\golabek.INIG\source\repos\SQLtest\obj\Debug\SQLtest.exe
+C:\Users\golabek.INIG\source\repos\SQLtest\obj\Debug\SQLtest.pdb
